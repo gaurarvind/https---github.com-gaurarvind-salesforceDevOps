@@ -6,3 +6,4 @@ public with sharing class calculator {
         return a-b;
     }
   }
+
